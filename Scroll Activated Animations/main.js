@@ -1,4 +1,4 @@
-let = isScrolling = false;
+let isScrolling = false;
 let listItems = document.querySelectorAll("#mainContent ol li");
 let firstBox = document.querySelector("#firstBox");
 let secondBox = document.querySelector("#secondBox");

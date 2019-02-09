@@ -4,8 +4,30 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Smooth Parallax Scrolling</title>
-    <link rel="stylesheet" href="style.css" />
+    <title>Sprite Sheet Animations Using CSS</title>
+    <style>
+      body {
+        height: 100vh;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      #spriteContainer {
+        width: 300px;
+        height: 300px;
+        display: block;
+        background-image: url("img/sprites_final.webp");
+        animation: sprite 0.3s steps(24) infinite;
+      }
+
+      @keyframes sprite {
+        100% {
+          background-position: -7224px;
+        }
+      }
+    </style>
   </head>
   <body>
     <div id="spriteContainer"></div>

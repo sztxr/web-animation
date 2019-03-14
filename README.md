@@ -15,3 +15,5 @@
 - Animating with Robert Penner's Easing Functions - [Code](https://github.com/sztxr/web-animation/blob/master/Robert%20Penner's%20Easing%20Functions/js/main.js) - [CodePen](https://codepen.io/sztr/pen/NoYBMG) - [Ref](https://www.kirupa.com/html5/animating_with_easing_functions_in_javascript.htm)
 
 - Slide In on Scroll - [Code](https://github.com/sztxr/web-animation/blob/master/Slide%20in%20on%20Scroll/index.html) - [CodePen](https://codepen.io/sztr/pen/YgQXOL) - [Ref](https://javascript30.com/)
+
+- Animating Multiple Elements and the Animate Method - [Code](https://github.com/sztxr/web-animation/blob/master/Animating%20Multiple%20Elements%20and%20the%20Animate%20Method/index.html) - [CodePen](https://codepen.io/sztr/pen/PLQrwG) - [Ref](https://www.kirupa.com/html5/animating_multiple_elements_animate_method.htm)

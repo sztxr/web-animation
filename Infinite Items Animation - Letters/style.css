@@ -1,0 +1,64 @@
+/* Global */
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: lavender;
+}
+
+/* Numbers */
+#container {
+  font-size: 0;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.letterGroup {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  border: #eee solid 1px;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.letter {
+  margin-top: 0px;
+  user-select: none;
+  animation: slide 2s infinite ease-in-out;
+}
+
+.letter p {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  padding: 0;
+  margin: 0;
+}
+
+/* Animation */
+@keyframes slide {
+  0% {
+    transform: translate3d(0, 0px, 0);
+  }
+  50% {
+    transform: translate3d(0, -100px, 0);
+  }
+  100% {
+    transform: translate3d(0, -100px, 0);
+  }
+}

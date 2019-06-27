@@ -18,6 +18,6 @@
 
 - Animating Multiple Elements and the Animate Method - [Code](https://github.com/sztxr/web-animation/blob/master/Animating%20Multiple%20Elements%20and%20the%20Animate%20Method/index.html) - [CodePen](https://codepen.io/sztr/pen/PLQrwG) - [Ref](https://www.kirupa.com/html5/animating_multiple_elements_animate_method.htm)
 
-- Infinite Items Animation - Numbers - [Code](https://github.com/sztxr/web-animation/tree/master/Infinite%20Items%20Animation%20-%20Numbers) - [CodePen]() - [Ref](https://www.kirupa.com/animations/infinite_sliding_animation.htm)
+- Infinite Items Animation - Numbers - [Code](https://github.com/sztxr/web-animation/tree/master/Infinite%20Items%20Animation%20-%20Numbers) - [CodePen](https://codepen.io/sztr/pen/LKOeWX) - [Ref](https://www.kirupa.com/animations/infinite_sliding_animation.htm)
 
-- Infinite Items Animation - Letters - [Code](https://github.com/sztxr/web-animation/tree/master/Infinite%20Items%20Animation%20-%20Letters) - [CodePen]() - [Ref](https://forum.kirupa.com/t/sliding-letters-animation/639197)
+- Infinite Items Animation - Letters - [Code](https://github.com/sztxr/web-animation/tree/master/Infinite%20Items%20Animation%20-%20Letters) - [CodePen](https://codepen.io/sztr/pen/YoEYBz) - [Ref](https://forum.kirupa.com/t/sliding-letters-animation/639197)

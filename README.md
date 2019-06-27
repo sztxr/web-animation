@@ -17,3 +17,7 @@
 - Slide In on Scroll - [Code](https://github.com/sztxr/web-animation/blob/master/Slide%20in%20on%20Scroll/index.html) - [CodePen](https://codepen.io/sztr/pen/YgQXOL) - [Ref](https://javascript30.com/)
 
 - Animating Multiple Elements and the Animate Method - [Code](https://github.com/sztxr/web-animation/blob/master/Animating%20Multiple%20Elements%20and%20the%20Animate%20Method/index.html) - [CodePen](https://codepen.io/sztr/pen/PLQrwG) - [Ref](https://www.kirupa.com/html5/animating_multiple_elements_animate_method.htm)
+
+- Infinite Items Animation - Numbers - [Code](https://github.com/sztxr/web-animation/tree/master/Infinite%20Items%20Animation%20-%20Numbers) - [CodePen]() - [Ref](https://www.kirupa.com/animations/infinite_sliding_animation.htm)
+
+- Infinite Items Animation - Letters - [Code](https://github.com/sztxr/web-animation/tree/master/Infinite%20Items%20Animation%20-%20Letters) - [CodePen]() - [Ref](https://forum.kirupa.com/t/sliding-letters-animation/639197)
